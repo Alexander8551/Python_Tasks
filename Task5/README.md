@@ -20,4 +20,5 @@
 
 - Женщины и дети имели приоритет при спасении, что объясняет важность этих факторов.
 - Социальный статус (`status`) также может влиять, так как пассажиры первого класса имели больше шансов на спасение.
-- ![diagram](https://github.com/user-attachments/assets/f06d716b-47fc-426e-9307-d5516eb14c73)
+![diagram2](https://github.com/user-attachments/assets/e73fea9d-e863-4a28-b8a0-6d6a0fd5765f)
+
